@@ -2,8 +2,8 @@
 
 This repository contains codes relating to the second wave of the *Network, Employment, dEbt, Mobility, and Skills in South India Survey* (NEEMSIS). This wave was conducted in rural Tamil Nadu in 2020-21, in more than 10 villages and 632 households.
 
-* The [`Variables`](https://github.com/neemsis/NEEMSIS-2/tree/main/Variables)' folder contains `.do` files for creating variables from NEEMSIS-2 data.
-* The [`Merging_cleaning`](https://github.com/neemsis/NEEMSIS-2/tree/main/Merging_cleaning)' folder contains `.do` files for merging and cleaning NEEMSIS-2 datasets.[^1]
+* The [`Variables`](https://github.com/neemsis/NEEMSIS-2/tree/main/Variables) folder contains `.do` files for creating variables from NEEMSIS-2 data.
+* The [`Merging_cleaning`](https://github.com/neemsis/NEEMSIS-2/tree/main/Merging_cleaning) folder contains `.do` files for merging and cleaning NEEMSIS-2 datasets.[^1]
 
 [^1]: These codes are only useful when recovering data from `SurveyCTO` or `KoboToolbox` servers and cleaning them.
 
