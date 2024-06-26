@@ -12,5 +12,5 @@ This repository contains codes relating to the second wave of the *Network, Empl
 > ### Useful links
 >
 > * For more information on the survey, see the [dedicated website](https://neemsis.hypotheses.org/).
-> * All documents (i.e., survey manual, questionnaires, survey report) relating to the survey are freely available on HAL ([hal-04207258](https://hal.science/hal-04207258)).
+> * All documents (i.e., survey manual, questionnaires, survey report) relating to the wave are freely available on HAL ([hal-04207258](https://hal.science/hal-04207258)).
 > * A working paper detailing the methodology of the NEEMSIS survey is available in open access [here](https://dial.ird.fr/wp-content/uploads/2024/03/2024-02-NEEMSIS_data_context.pdf).
